@@ -16,4 +16,5 @@
     <string name="ExampleQuestion">Example Question</string>
     <string name="enterAnswer">Enter the Answer</string>
     <string name="typeAnswer">Type Your Answer</string>
+    <string name="today">Today</string>
 </resources>
