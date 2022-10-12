@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">planney</string>
+    <string name="appVersion">App Version</string>
+    <string name="login">Login</string>
+    <string name="yourEmail">Your Email</string>
+    <string name="yourPassword">Your Password</string>
+    <string name="forgotPassword">Forgot Password?</string>
+    <string name="signIn">Sign In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="dontHaveAcc">Don\u0027t have account? \n Sign Up</string>
+    <string name="enterEmail">Enter Your Email</string>
+    <string name="enterPassword">Enter Your Password</string>
+    <string name="retypePassword">Retype Your Password</string>
+    <string name="enterQuestion">Type a Question (In Case of Forgotten Password)</string>
+    <string name="question">Question</string>
+    <string name="ExampleQuestion">Example Question</string>
+    <string name="enterAnswer">Enter the Answer</string>
+    <string name="typeAnswer">Type Your Answer</string>
+</resources>
