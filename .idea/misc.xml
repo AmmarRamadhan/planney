@@ -3,15 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Ammar Ramadhan/AndroidStudioProjects/planney/app/src/main/res/layout/activity_account_page.xml" value="0.2617753623188406" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/planney/app/src/main/res/layout/activity_homepage.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/planney/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/planney/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/planney/app/src/main/res/layout/activity_main2.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/planney/app/src/main/res/layout/activity_sign_up.xml" value="0.17831813576494426" />
         <entry key="..\:/Users/Ammar Ramadhan/AndroidStudioProjects/planney/app/src/main/res/layout/activity_forgot_password.xml" value="0.2617753623188406" />
         <entry key="..\:/Users/Ammar Ramadhan/AndroidStudioProjects/planney/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/Ammar Ramadhan/AndroidStudioProjects/planney/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Ammar Ramadhan/AndroidStudioProjects/planney/app/src/main/res/layout/activity_sign_up.xml" value="0.2617753623188406" />
-        <entry key="..\:/Users/SU - NB0192/Documents/planney/app/src/main/res/layout/activity_forgot_password.xml" value="0.19429347826086957" />
-        <entry key="..\:/Users/SU - NB0192/Documents/planney/app/src/main/res/layout/activity_main.xml" value="0.19429347826086957" />
-        <entry key="..\:/Users/SU - NB0192/Documents/planney/app/src/main/res/layout/activity_my_plan_page.xml" value="0.2" />
-        <entry key="..\:/Users/SU - NB0192/Documents/planney/app/src/main/res/layout/content_my_plan_page.xml" value="0.25" />
       </map>
     </option>
   </component>

@@ -18,4 +18,19 @@
     <string name="typeAnswer">Type Your Answer</string>
     <string name="today">Today</string>
     <string name="ads">ADS</string>
+
+    <string name="tsummary">Summary</string>
+    <string name="tbalance">Balance</string>
+    <string name="tnew">New</string>
+    <string name="tmyplan">My Plan</string>
+    <string name="taccount">Account</string>
+    <string name="bal_placeholder">Rp. XXXXXX</string>
+    <string name="myexpense">My Expense</string>
+    <string name="myexpensed">My expense so far</string>
+    <string name="seeall">see all</string>
+    <string name="recently">Recently</string>
+    <string name="monthlysal">Monthly Salary</string>
+    <string name="boardingh">Boarding House</string>
+    <string name="freelancep">Freelance Project</string>
+
 </resources>
