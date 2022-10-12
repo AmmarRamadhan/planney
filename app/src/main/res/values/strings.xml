@@ -31,6 +31,13 @@
     <string name="recently">Recently</string>
     <string name="monthlysal">Monthly Salary</string>
     <string name="boardingh">Boarding House</string>
-    <string name="freelancep">Freelance Project</string>
+    <string name="freelancep">Freelance Project House</string>
+
+    <string name="title_activity_my_plan_page">Placeholder for Missing Variable</string>
+    <string name="hello_first_fragment">Placeholder for Missing Variable</string>
+    <string name="next">Placeholder for Missing Variable</string>
+    <string name="previous">Placeholder for Missing Variable</string>
+    <string name="first_fragment_label">Placeholder for Missing Variable</string>
+    <string name="second_fragment_label">Placeholder for Missing Variable</string>
 
 </resources>

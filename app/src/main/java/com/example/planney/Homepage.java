@@ -15,19 +15,19 @@ public class Homepage extends AppCompatActivity {
     }
 
     public void Tab1to2(View view) {
-        Intent intent = new Intent(Homepage.this, MainActivity.class);
+        Intent intent = new Intent(Homepage.this, SignUp.class);
         startActivity(intent);
     }
     public void Tab1to3(View view) {
-        Intent intent = new Intent(Homepage.this, MainActivity.class);
+        Intent intent = new Intent(Homepage.this, SignUp.class);
         startActivity(intent);
     }
     public void Tab1to4(View view) {
-        Intent intent = new Intent(Homepage.this, MainActivity.class);
+        Intent intent = new Intent(Homepage.this, SignUp.class);
         startActivity(intent);
     }
     public void Tab1to5(View view) {
-        Intent intent = new Intent(Homepage.this, MainActivity.class);
+        Intent intent = new Intent(Homepage.this, SignUp.class);
         startActivity(intent);
     }
 }
